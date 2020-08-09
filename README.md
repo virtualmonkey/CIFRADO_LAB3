@@ -6,7 +6,7 @@ This repo contains two implementations related with message integrity
     - timingAttack.py
     - server.py
 
-the two last are for the same porpuse.
+the two last are for the same purpose.
 
 ## Installation
 
@@ -36,7 +36,7 @@ For SHA-256 implmentation run:
 $ python3 cipher.py
 ```
 
-For timingAttack implementation run:
+**For timingAttack implementation**
 
 There are three ways to compare the token
     
@@ -95,4 +95,14 @@ Now, run the timingAttack file
 $ python3 timingAttack.py
 ```
 
+## Results
+
+You should get something like this
+
+    - For str_equals
+    - For str_equals_conts_time
+    - For str_equals_hmac
+
 ## Demo
+
+[!alt text](https://youtu.be/cPeBtGOMj94)
