@@ -99,10 +99,17 @@ $ python3 timingAttack.py
 
 You should get something like this
 
-    - For str_equals
-    - For str_equals_conts_time
-    - For str_equals_hmac
+
+**For str_equals**
+![alt text](https://github.com/virtualmonkey/CIFRADO_LAB3/blob/master/no_time_constant.png)
+
+**For str_equals_conts_time**
+![alt text](https://github.com/virtualmonkey/CIFRADO_LAB3/blob/master/time_constant_XOR.png)
+
+**For str_equals_hmac**
+![alt text](https://github.com/virtualmonkey/CIFRADO_LAB3/blob/master/time_constant_hmac.png)
+
 
 ## Demo
 
-[!alt text](https://youtu.be/cPeBtGOMj94)
+[Video](https://youtu.be/cPeBtGOMj94)
